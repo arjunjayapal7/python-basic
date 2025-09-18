@@ -1,0 +1,7 @@
+* All files will be stored in the "MASTER" by default.
+* Inorder to create a branch we use the command "git branch branch-name"
+* After creating a branch we create files which woukd automatically 
+  be stored into the newly created branch
+* And finally we have to merge the new branch to the "MASTER" branch
+* We can use the command "git checkout branch-name" to switch to 
+  "MASTER" branch or any other branch we have created.  
